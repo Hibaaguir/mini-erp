@@ -24,3 +24,8 @@ npm start
     2-Ouvrez l'interface : frontend/index.html
     3-Ajoutez des données : Utilisez le bouton "Charger données démo"
     4-Gérez votre activité : Naviguez entre les onglets
+4/Les Technologies utilisées:
+    Backend : Node.js, Express, SQLite
+    Frontend : HTML, CSS, JavaScript
+    Base de données : SQLite 
+    Le serveur API tourne sur http://localhost:3001
